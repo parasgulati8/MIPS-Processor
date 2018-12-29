@@ -3,8 +3,7 @@
 <h2> Description </h2>
 This project is an implementation of a two-level (L1 and L2) cache simulator which takes parameters describing the cache (cache size, block size and associativity) and a memory access file for an input program. The simulator is designed using C++.
 
-<h2> Installation </h2>
-Instructions on how to compile code
+# Instructions on how to compile code
 1) save the cachesimulator.cpp file, cacheconfig.txt file, trace_small.txt file and trace.txt file in same folder 
 2) Open command prompt in windows
 3) change the working directory to the location where the files are stored
